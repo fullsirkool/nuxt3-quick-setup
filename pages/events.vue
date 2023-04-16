@@ -1,9 +1,8 @@
 <template>
-    <h1>Index page</h1>
-    <h2 class="text-cyan-700">{{ title }}</h2>
+    <h1 class="text-cyan-700">{{ title }}</h1>
 </template>
 <script setup>
-    const title = ref('Event')
+    const title = ref('Event Page')
 </script>
 <style>
 </style>
